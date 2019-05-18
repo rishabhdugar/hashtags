@@ -1,16 +1,1 @@
-[
-  {
-    "category": "Sports",
-    "hashtags": [
-      "cricket",
-      "football"
-    ]
-  },
-  {
-    "category": "entertainment",
-    "hashtags": [
-      "movies",
-      "outing"
-    ]
-  }
-]
+[ { "category": "Sports", "hashtags": [ "cricket", "football" ] }, { "category": "entertainment", "hashtags": [ "movies", "outing" ] } ]
